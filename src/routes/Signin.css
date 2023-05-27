@@ -1,0 +1,19 @@
+.form-control{
+    width:30%;
+}
+.container1{
+    margin-top: 80px;
+}
+.container{
+    padding-top: 10px;
+}
+.container h2{
+    padding-bottom: 30px;
+    font-weight: boldnp;
+}
+.modal-title{
+    text-align: center;
+    color:navy;
+    font-size: 25px;
+    font-weight: bold;
+}
